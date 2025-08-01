@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @katrinax2
-- 👀 I’m interested in website design 
+- 👋 Hi, I’m @katrina Watson
+- 👀 I’m interested in web design and add development 
 - 🌱 I’m currently studying Computer science
 
 <!---
